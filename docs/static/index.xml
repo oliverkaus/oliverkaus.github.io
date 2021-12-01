@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statics on &lt;/&gt;</title>
-    <link>https://oliverskaus.github.io/static/</link>
+    <link>https://kaus.dev/static/</link>
     <description>Recent content in Statics on &lt;/&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Oliver Kaus - All rights reserved</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 11:12:00 +0200</lastBuildDate><atom:link href="https://oliverskaus.github.io/static/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Oct 2018 11:12:00 +0200</lastBuildDate><atom:link href="https://kaus.dev/static/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://oliverskaus.github.io/static/aboutme/</link>
+      <link>https://kaus.dev/static/aboutme/</link>
       <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
       
-      <guid>https://oliverskaus.github.io/static/aboutme/</guid>
+      <guid>https://kaus.dev/static/aboutme/</guid>
       <description>Hello again!
 I have given a quick introduction in the intro section. Here I want to provide a bit more detail.
 Professional Background I work as a Senior Data Scientist for the sports streaming company DAZN.</description>
@@ -21,10 +21,10 @@ Professional Background I work as a Senior Data Scientist for the sports streami
     
     <item>
       <title>Imprint</title>
-      <link>https://oliverskaus.github.io/static/imprint/</link>
+      <link>https://kaus.dev/static/imprint/</link>
       <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
       
-      <guid>https://oliverskaus.github.io/static/imprint/</guid>
+      <guid>https://kaus.dev/static/imprint/</guid>
       <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
