@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&lt;/&gt;</title>
+    <link>https://oliverskaus.github.io/</link>
+    <description>Recent content on &lt;/&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Oliver Kaus - All rights reserved</copyright>
+    <lastBuildDate>Wed, 10 Feb 2021 11:39:10 +0200</lastBuildDate><atom:link href="https://oliverskaus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎾🔍 Tennalytix (1/5): Introduction Into My Tennis Analytics Project</title>
+      <link>https://oliverskaus.github.io/projects/00_tennalytix_introduction/</link>
+      <pubDate>Wed, 10 Feb 2021 11:39:10 +0200</pubDate>
+      
+      <guid>https://oliverskaus.github.io/projects/00_tennalytix_introduction/</guid>
+      <description>This is empty</description>
+    </item>
+    
+    <item>
+      <title>🎾🤖 Tennalytix (2/5): Track Pixel Positions Through Deep Learning</title>
+      <link>https://oliverskaus.github.io/projects/01_track_pixel_positions/</link>
+      <pubDate>Tue, 09 Feb 2021 11:39:10 +0200</pubDate>
+      
+      <guid>https://oliverskaus.github.io/projects/01_track_pixel_positions/</guid>
+      <description>This is empty</description>
+    </item>
+    
+    <item>
+      <title>🎾💻 Tennalytix (3/5): Create Tkinter GUI To Manually Overwrite Predictions</title>
+      <link>https://oliverskaus.github.io/projects/02_tkinter_gui/</link>
+      <pubDate>Mon, 08 Feb 2021 11:39:10 +0200</pubDate>
+      
+      <guid>https://oliverskaus.github.io/projects/02_tkinter_gui/</guid>
+      <description>This is empty</description>
+    </item>
+    
+    <item>
+      <title>🎾🏹 Tennalytix (4/5): Create 3d Spatiotemporal Tracking Data</title>
+      <link>https://oliverskaus.github.io/projects/03_create_3d_data/</link>
+      <pubDate>Sun, 07 Feb 2021 11:39:10 +0200</pubDate>
+      
+      <guid>https://oliverskaus.github.io/projects/03_create_3d_data/</guid>
+      <description>This is empty.</description>
+    </item>
+    
+    <item>
+      <title>🎾📊 Tennalytix (5/5): Visualising Insights using Plotly Dash</title>
+      <link>https://oliverskaus.github.io/projects/04_tennalytix_dashboard/</link>
+      <pubDate>Sat, 06 Feb 2021 11:39:10 +0200</pubDate>
+      
+      <guid>https://oliverskaus.github.io/projects/04_tennalytix_dashboard/</guid>
+      <description>This is empty.</description>
+    </item>
+    
+    <item>
+      <title>👨‍💼➡👨‍💻 Why I Quit Business For A Computer Science Career</title>
+      <link>https://oliverskaus.github.io/blog/04_computer_science_conversion/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
+      
+      <guid>https://oliverskaus.github.io/blog/04_computer_science_conversion/</guid>
+      <description>Draft</description>
+    </item>
+    
+    <item>
+      <title>🚀 Deploy ML model through CI/CD into Docker Container</title>
+      <link>https://oliverskaus.github.io/blog/03_ml_model_cicd_docker/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
+      
+      <guid>https://oliverskaus.github.io/blog/03_ml_model_cicd_docker/</guid>
+      <description>Draft</description>
+    </item>
+    
+    <item>
+      <title>🤓☝ Software Engineering Best Practices For Data Scientists</title>
+      <link>https://oliverskaus.github.io/blog/02_best_software_engeering_practices/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
+      
+      <guid>https://oliverskaus.github.io/blog/02_best_software_engeering_practices/</guid>
+      <description>Draft</description>
+    </item>
+    
+    <item>
+      <title>📚  Online Courses for Software Engineers and Data Scientists</title>
+      <link>https://oliverskaus.github.io/blog/01_online_courses/</link>
+      <pubDate>Sun, 07 Oct 2018 11:17:14 +0200</pubDate>
+      
+      <guid>https://oliverskaus.github.io/blog/01_online_courses/</guid>
+      <description>Online courses are a great way for Software Engineers as well as Data Scientists to expand the technical skill set. In this blog post, I will describe key takeaways of completed online courses and evaluate them.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://oliverskaus.github.io/static/aboutme/</link>
+      <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
+      
+      <guid>https://oliverskaus.github.io/static/aboutme/</guid>
+      <description>Hello again!
+I have given a quick introduction in the intro section. Here I want to provide a bit more detail.
+Professional Background I work as a Senior Data Scientist for the sports streaming company DAZN.</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>https://oliverskaus.github.io/static/imprint/</link>
+      <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
+      
+      <guid>https://oliverskaus.github.io/static/imprint/</guid>
+      <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
+    </item>
+    
+  </channel>
+</rss>
