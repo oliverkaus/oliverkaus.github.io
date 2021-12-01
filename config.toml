@@ -1,4 +1,5 @@
-baseURL = "https://oliverskaus.github.io/"
+# baseURL = "https://oliverskaus.github.io/"
+baseURL = "https://kaus.dev/"
 languageCode = "en-us"
 title = "</>"
 theme = "mediumish-gohugo-theme"
