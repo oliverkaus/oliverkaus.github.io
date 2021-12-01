@@ -1,0 +1,37 @@
+{{ define "header"}}
+    {{- partial "_shared/navbar.html" . -}}
+{{ end }}
+
+{{ define "main" }}
+    <div class="main-content">
+        <header class="text-center">
+            {{ with .Site.Params.index.picture }}
+                <img src="{{ . | urlize | relURL }}" class="rounded-circle text-center index-image">
+            {{ end }}
+            <h1 class="index-title">{{ .Site.Params.index.title }}</h1>
+        </header>
+
+        <section class="text-center">
+            {{ with .Site.Params.index.subtitle }}
+            <h3 class="index-sub"> &#128188 {{ . }}</h3></nobr>
+            {{ end }}
+            {{ with .Site.Params.index.mdtext }}
+            <h6 class="index-text">{{ . | markdownify }}</h6>
+            {{ end }}
+
+            <h5>Test</h5>
+            <ul class="flex flex-row flex-wrap "><li class="flex flex-row items-center last:mr-0 mr-2 mb-2"><span class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-xs font-normal last:mr-0">JavaScript</span></li><li class="flex flex-row items-center last:mr-0 mr-2 mb-2"><span class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-xs font-normal last:mr-0">React</span></li><li class="flex flex-row items-center last:mr-0 mr-2 mb-2"><span class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-xs font-normal last:mr-0">Python</span></li><li class="flex flex-row items-center last:mr-0 mr-2 mb-2"><span class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-xs font-normal last:mr-0">GO</span></li><li class="flex flex-row items-center last:mr-0 mr-2 mb-2"><span class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-xs font-normal last:mr-0">Full Stack</span></li></ul>
+        </section>
+
+    </div>
+    {{- partial "_shared/social.html" . -}}
+    {{ if isset .Site.Params.index "alertbar" }}
+    	{{ if .Site.Params.index.alertbar }}
+            {{- partial "_shared/alertbar.html" . -}}
+        {{ end }}
+    {{ end }}
+{{end}}
+
+{{ define "footer" }}
+    {{- partial "_shared/footer.html" . -}}
+{{end}}

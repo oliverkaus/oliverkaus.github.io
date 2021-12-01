@@ -1,0 +1,74 @@
+{{ define "header"}}
+    {{- partial "_shared/navbar.html" . -}}
+{{ end }}
+
+{{ define "main" }}
+    <div class="main-content">
+        <header class="text-center">
+            {{ with .Site.Params.index.picture }}
+                <img src="{{ . | urlize | relURL }}" class="rounded-circle text-center index-image">
+            {{ end }}
+            <h1 class="index-title">{{ .Site.Params.index.title }}</h1>
+        </header>
+
+        <section class="text-center">
+            {{ with .Site.Params.index.subtitle }}
+            <h3 class="index-sub"> &#128188 {{ . }}</h3></nobr>
+            <!-- Tried with SVG but did not manage to make it work; <div class="font-light text-gray-500"><svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="mr-1 w-4 h-4" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path></svg>
+                </div>  -->
+            {{ end }}
+
+            <div class="items-center">
+                <ul class="flex flex-row flex-wrap li-center text-center margin-top-listbox">
+                <!-- <ul> -->
+                    <li class="flex flex-row items-center li-center last:mr-0 mr-2 mb-2">
+                        <span class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-xs font-normal font-light last:mr-0">
+                            Python 🐍
+                        </span>
+                    </li>
+                    <li class="flex flex-row items-center li-center last:mr-0 mr-2 mb-2">
+                        <span class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-xs font-normal font-light last:mr-0">
+                            AWS ☁️
+                        </span>
+                    </li>
+                    <li class="flex flex-row items-center li-center last:mr-0 mr-2 mb-2">
+                        <span class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-xs font-normal font-light last:mr-0">
+                            Machine Learning 🧠
+                        </span>
+                    </li>
+                    <li class="flex flex-row items-center li-center last:mr-0 mr-2 mb-2">
+                        <span class="inline-block bg-gray-200 rounded-sm px-2 py-1 text-xs font-normal font-light last:mr-0">
+                            MLOps ⚙️
+                        </span>
+                    </li>
+                </ul>
+            </div>
+
+
+            <!-- {{ with .Site.Params.index.mdtext }}
+            <h6 class="index-text">{{ . | markdownify }}</h6>
+            {{ end }} -->
+
+            {{- partial "_shared/social.html" . -}}
+            {{ if isset .Site.Params.index "alertbar" }}
+                {{ if .Site.Params.index.alertbar }}
+                    {{- partial "_shared/alertbar.html" . -}}
+                {{ end }}
+            {{ end }}
+
+            <div class="index-description font-light text-center">                 
+                Hi there, I am Oliver 👋 I am a Senior Data Scientist with a big passion for computer science 
+                and have experience leading Machine Learning projects. In my spare time, I love to enhance my 
+                skillset through online courses and work on side projects. In my largest side project, 
+                I created spatiotemporal tennis tracking data based on tennis videos, 
+                analysed the data and surfaced the results in a Dash (plotly) dashboard. <br><br>
+
+                I am very curious, so if you have anything that might be interesting to me, please get in touch!  </div>
+        </section>
+    </div>
+
+{{end}}
+
+{{ define "footer" }}
+    {{- partial "_shared/footer.html" . -}}
+{{end}}

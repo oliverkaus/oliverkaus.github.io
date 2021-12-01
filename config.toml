@@ -1,0 +1,68 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "</>"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Oliver Kaus - All rights reserved"
+enableEmoji = true
+publishDir = "public"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  # logo = "/images/logo.png"
+  description ="Projects that I have worked on: "
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Oliver Kaus"
+  thumbnail = "/images/author.png"
+  description = "Creator of this blog."
+
+[params.index]
+  picture = "/images/author.png"
+  title = "Oliver Kaus"
+  subtitle = "Senior Data Scientist @ DAZN"
+  mdtext = '''
+Currently trying to get this blog running, still don't know what the blog will be about!\
+**This textblock is a demonstration of the mdtext-param.**\
+### Hi there! I am Oliver, a Senior Data Scientist with a big passion for computer science and experience in leading Machine Learning projects.
+
+'''
+  alertbar = false
+
+[params.social]
+  github = "<username>"
+  linkedin = "<username>"
+  xing = "<username>"
+  medium = "<username>"
+  twitter = "<username>"
+  instagram = "<username>"
+
+
+
+## Main Menu
+
+[[menu.main]]
+    name = "Intro"
+    identifier = "about"
+    weight = 100
+    url = "/"
+
+[[menu.main]]
+    name = "Projects"
+    weight = 200
+    identifier = "projects"
+    url = "/projects]"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 300
+    identifier = "blog"
+    url = "/blog"
+
+[[menu.main]]
+    name = "About Me"
+    identifier = "aboutme"
+    weight = 600
+    url = "/static/aboutme"
