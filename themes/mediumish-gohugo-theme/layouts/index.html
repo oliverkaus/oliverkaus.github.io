@@ -8,12 +8,12 @@
             {{ with .Site.Params.index.picture }}
                 <img src="{{ . | urlize | relURL }}" class="rounded-circle text-center index-image">
             {{ end }}
-            <h1 class="index-title">{{ .Site.Params.index.title }}</h1>
+            <h2 class="index-title">{{ .Site.Params.index.title }}</h2>
         </header>
 
         <section class="text-center">
             {{ with .Site.Params.index.subtitle }}
-            <h3 class="index-sub"> &#128188 {{ . }}</h3></nobr>
+            <h4 class="index-sub"> &#128188 {{ . }}</h4></nobr>
             <!-- Tried with SVG but did not manage to make it work; <div class="font-light text-gray-500"><svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="mr-1 w-4 h-4" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path></svg>
                 </div>  -->
             {{ end }}
