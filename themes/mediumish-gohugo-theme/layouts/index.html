@@ -56,15 +56,25 @@
                 {{ end }}
             {{ end }}
 
-            <div class="index-description font-light text-center">                 
+            <div class="index-description font-light text-center"> 
+
+                <!-- <a href="/content/blog/test/index.md | urlize | relURL">Test</a> -->
+
+                {{ .RelPermalink }}
+
                 Hi there 👋 I am Oliver, a Senior Data Scientist with a big passion for computer science 
                 and experience leading and delivering Machine Learning solutions. In my spare time, I love to enhance my 
-                skillset through online courses and work on side projects. In my largest side project, 
-                I created spatiotemporal tennis tracking data based on tennis videos, 
-                analysed the data and surfaced the results in a Dash (plotly) dashboard. <br><br>
+                skillset through <b><a href='blog/01_online_courses'>online courses</a></b> and 
+                work on side projects. In my largest side project, 
+                I <b><a href='projects/01_track_pixel_positions'>created spatiotemporal tennis tracking data</a></b> based on tennis videos, 
+                <b><a href='projects/03_create_3d_data'>analysed the data </a></b> and surfaced the results in a <b><a href='projects/04_tennalytix_dashboard'>Dash (plotly) dashboard. </a></b> <br><br>
 
                 I am very curious, so if you have anything that might be interesting to me, please get in touch!  </div>
         </section>
+
+        <!-- {{ with .Site.Params.index.picture }}
+                <img src="{{ . | urlize | relURL }}" class="rounded-circle text-center index-image">
+            {{ end }} -->
     </div>
 
 {{end}}

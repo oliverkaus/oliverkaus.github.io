@@ -23,8 +23,8 @@ Object detection is a well studied deep learning problem. To not re-invent the w
     a For Detectron2, this meant filtering out non-human objects
 6. The cleaned pixel predictions for both models were stored in json files which included additional image metadata and put into Google Drive
 
-Below you can see a visualisation of the Detectron2 model predictions:
-![alt](detectron2_3sec_480.gif)
+Below you can see a visualisation of the Detectron2 model predictions that I also used as a cover image for this blog:
+![alt](cover.gif)
 
 
 When filtering the player predictions for the competing players and visualising their geometric center and visualising the ball predictions, it looks like this: 
