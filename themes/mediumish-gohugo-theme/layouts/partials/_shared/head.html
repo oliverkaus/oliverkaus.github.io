@@ -5,7 +5,8 @@
 	{{ with .Site.Params.logo }}
 	<link rel="icon" href="{{ . | urlize | relURL }}">
 	{{ end }}
-	<title>{{ .Page.Title }} | {{ .Site.Title }}</title>
+	<!-- <title>{{ .Page.Title }} | {{ .Site.Title }}</title> -->
+	<title>{{ .Page.Title }}</title>
 	{{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
 
