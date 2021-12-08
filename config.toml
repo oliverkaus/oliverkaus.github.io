@@ -1,7 +1,8 @@
 # baseURL = "https://oliverskaus.github.io/"
 baseURL = "https://kaus.dev/"
 languageCode = "en-us"
-title = "</>"
+titleIcon = "</>"
+title = "kaus.dev"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "Oliver Kaus - All rights reserved"
