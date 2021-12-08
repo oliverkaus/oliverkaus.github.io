@@ -12,11 +12,8 @@ In this blog post, I will describe key takeaways of completed online courses and
 
 The online courses that I have completed are the following:
 - AWS Certified Solutions Architect - Associate by Linux Academy
-[Linux Academy - AWS Certified Solutions Architect - Associate Preparation Course](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02)
 - Machine Learning Engineer Udacity Nanogree by Udacity
-- Machine Learning DevOps Engineer by Udacity
-- [Udacity - Machine Learning Engineer Udacity Nanogree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
-- [Udacity - Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
+- Machine Learning DevOps Engineer by Udacity (in progress)
 
 I will provide a summary and evaluation and outline key learnings from these courses taking a Data Scientist lense. 
 
