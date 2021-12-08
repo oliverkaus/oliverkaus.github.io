@@ -5,6 +5,7 @@ publishdate: 2018-10-07T11:17:14+02:00
 # image: "/images/blog/1.jpg" This is irrelevant
 tags: ["AWS", "Machine Learning", "MLOps", "Data Science"]
 comments: false
+
 ---
 
 Online courses are a great way for Software Engineers as well as Data Scientists to expand the technical skill set. 

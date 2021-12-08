@@ -5,5 +5,8 @@ publishdate: 2018-10-07T11:39:13+02:00
 image: "/images/blog/3.jpg"
 tags: ["interesting"]
 comments: false
+hidden: true
+disabled: true
+draft: true
 ---
 Draft
