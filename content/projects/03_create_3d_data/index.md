@@ -5,9 +5,8 @@ publishdate: 2021-02-07T11:39:10+02:00
 image: "/images/blog/2.jpg"
 tags: ["interesting"]
 comments: false
+postsummary: "How can we convert 2-dimensional tennis ball pixel locations into 3-dimensional space? How can we convert 3d data points into continuous spatiotemporal tennis ball tracking data?"
 ---
-How can we convert 2-dimensional tennis ball pixel locations into 3-dimensional space? How can we convert 3d data points into continuous spatiotemporal tennis ball tracking data?
-
 
 # Introduction
 In this blog post I describe how I converted 2d pixel data points into 3d space. I highlight how I converted the 3d data points into 3d space. Once this is done, it's simple to visualise the data. 

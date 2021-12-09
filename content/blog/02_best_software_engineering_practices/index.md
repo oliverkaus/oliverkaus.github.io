@@ -4,11 +4,11 @@ date: 2018-10-07T11:39:10+02:00
 publishdate: 2018-10-07T11:39:10+02:00
 image: "/images/blog/2.jpg"
 tags: ["interesting"]
+imagecaption: Photo by pxhere
+postsummary: "Did you ever need to make some changes to an ML project that you worked on a long time ago? Very likely it was not a pleasant experience."
 
 comments: false
 ---
-Did you ever need to make some changes to an ML project that you worked on a long time ago? Very likely it was not a pleasant experience.
-
 # Introduction
 
 There are some well-established practices in the software engineering community that are less established in the Data Science world. 

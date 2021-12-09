@@ -5,9 +5,8 @@ publishdate: 2021-02-09T11:39:10+02:00
 image: "/images/blog/2.jpg"
 tags: ["interesting"]
 comments: false
+postsummary: "How can we track the player pixel locations in a video? How can we track the tennis ball pixel locations?  And where can we deploy our deep learning models?"
 ---
-
-How can we track the player pixel locations in a video? How can we track the tennis ball pixel locations?  And where can we deploy our deep learning models?
 
 # Introduction
 The goal of this blog post is to describe how I tracked the player and tennis ball pixel locations using deep learning models and how I set this up to run for multiple tennis videos. 
