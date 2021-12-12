@@ -9,6 +9,8 @@ postsummary: "Did you ever need to make some changes to an ML project that you w
 
 comments: false
 ---
+*Image by pxhere.com*
+
 # Introduction
 
 There are some well-established practices in the software engineering community that are less established in the Data Science world. 

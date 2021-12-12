@@ -10,7 +10,7 @@ I have given a quick introduction in the intro section. Here I want to provide a
 ### Professional Background
 I work as a Senior Data Scientist for the sports streaming company DAZN. My team is responsible for building, deploying and maintaining various Machine Learning models which range from content demand predictions (e.g. viewership count) to models which predict user behaviour (e.g. churn, re-subscriptions). 
 
-Originally, I am from Dortmund in 🇩🇪 Germany. I studied International Business at 🇳🇱 Maastricht University and 🇭🇰 Hong Kong University of Science and Technology and then decided to move into Computer Science through an intense 1-year programme at 🇬🇧 Imperial College London. (Why this change? Read more [here](test_link)). 
+Originally, I am from Dortmund in 🇩🇪 Germany. I studied International Business at 🇳🇱 Maastricht University and 🇭🇰 Hong Kong University of Science and Technology and then decided to move into Computer Science through an intense 1-year programme at 🇬🇧 Imperial College London. <!-- (Why this change? Read more [here](test_link)).  -->
 
 ### Hobbies & Interests
 

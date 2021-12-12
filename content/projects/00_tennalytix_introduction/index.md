@@ -5,7 +5,7 @@ publishdate: 2021-02-10T11:39:10+02:00
 image: "/images/blog/2.jpg"
 tags: ["tennalytix"]
 comments: false
-postsummary: "Is it possible to generate 3d tracking data based on 2d Youtube tennis videos? Can we use the data to generate player insights? Those were questions that I tried to tackle in this side project."
+postsummary: "Is it possible to generate 3d tracking data based on 2d Youtube tennis videos? Can we use the data to generate player insights?"
 ---
 
 # Introduction
