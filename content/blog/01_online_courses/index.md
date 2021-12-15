@@ -1,7 +1,7 @@
 ---
 title: "📚  Online Courses for Software Engineers and Data Scientists"
-date: 2018-10-07T11:17:14+02:00
-publishdate: 2018-10-07T11:17:14+02:00
+date: 2021-10-07T11:17:14+02:00
+publishdate: 2021-10-07T11:17:14+02:00
 # image: "/images/blog/1.jpg" This is irrelevant
 tags: ["AWS", "Machine Learning", "MLOps", "Data Science"]
 comments: false
