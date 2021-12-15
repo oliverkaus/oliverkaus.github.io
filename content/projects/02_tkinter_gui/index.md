@@ -3,7 +3,7 @@ title: "🎾💻 Tennalytix (3/5): Create Tkinter GUI To Manually Overwrite Pred
 date: 2021-02-08T11:39:10+02:00
 publishdate: 2021-02-08T11:39:10+02:00
 image: "/images/blog/2.jpg"
-tags: ["interesting"]
+tags: ["tennalytix"]
 comments: false
 postsummary: "How do we build a tool into which we load model predictions and can build some overwrite functionalities?  "
 ---

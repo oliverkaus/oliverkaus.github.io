@@ -3,7 +3,7 @@ title: "🎾🏹 Tennalytix (4/5): Create 3d Spatiotemporal Tracking Data"
 date: 2021-02-07T11:39:10+02:00
 publishdate: 2021-02-07T11:39:10+02:00
 image: "/images/blog/2.jpg"
-tags: ["interesting"]
+tags: ["tennalytix"]
 comments: false
 postsummary: "How can we convert 2-dimensional tennis ball pixel locations into 3-dimensional space? How can we convert 3d data points into continuous spatiotemporal tennis ball tracking data?"
 ---
