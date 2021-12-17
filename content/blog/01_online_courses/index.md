@@ -5,8 +5,7 @@ publishdate: 2021-10-07T11:17:14+02:00
 # image: "/images/blog/1.jpg" This is irrelevant
 tags: ["AWS", "Machine Learning", "MLOps", "Data Science"]
 comments: false
-postsummary: "Online courses are a great way for Software Engineers as well as Data Scientists to expand the technical skill set. 
-In this blog post, I will describe key takeaways of completed online courses and evaluate them. 
+postsummary: "Online courses are a great way for Software Engineers as well as Data Scientists to expand the technical skill set. In this blog post, I will describe key takeaways of completed online courses and evaluate them. 
 "
 ---
 *Image by pxhere.com*
