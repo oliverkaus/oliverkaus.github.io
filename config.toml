@@ -10,6 +10,7 @@ enableEmoji = true
 publishDir = "docs"
 #disqusShortname = "your-shortname-here"
 googleAnalytics = "G-X0PN6ZC0R8"
+enableRobotsTXT = true
 
 [params]
   # logo = "/images/logo.png"
