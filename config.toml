@@ -25,7 +25,7 @@ enableRobotsTXT = true
 [params.index]
   picture = "/images/author.png"
   title = "Oliver Kaus"
-  subtitle = "Senior Data Scientist @ DAZN"
+  subtitle = "Research Data Scientist @ Meta"
   mdtext = '''
 Currently trying to get this blog running, still don't know what the blog will be about!\
 **This textblock is a demonstration of the mdtext-param.**\
